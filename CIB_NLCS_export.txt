@@ -1,0 +1,713 @@
+#!!!!___DO NOT SORT____!!!!		#Projection		#cut	
+#Category	#Sub Category	#Layer	#Color ID	#Layer	#Color ID
+#Model categories					
+Air Terminals		X-XX-AL-NTB-G	180		
+Areas		N-WE-KG-GRENS-G	150		
+Areas	Color Fill	N-WE-KG-GRENS-A	132		
+Areas	Interior Fill	N-WE-KG-GRENS-A	132		
+Areas	Reference	N-WE-KG-GRENS-G	150		
+Cable Tray Fittings		X-XX-AL-NTB-G	180		
+Cable Tray Fittings	Center line	X-XX-AL-HARTLIJN-G	7		
+Cable Trays		X-XX-AL-NTB-G	180		
+Cable Trays	Center line	X-XX-AL-HARTLIJN-G	7		
+Cable Trays	Drop	X-XX-AL-T25	7		
+Cable Trays	Rise	X-XX-AL-T25	7		
+Casework		N-CO-HU-HULPCONSTRUCTIES-G	7	N-CO-HU-HULPCONSTRUCTIES-GD	130
+Casework	Hidden Lines	N-CO-HU-HULPCONSTRUCTIES-GN	10	N-CO-HU-HULPCONSTRUCTIES-GN	10
+Ceilings		N-CO-HC-HOUTVORM-G	30	N-CO-HC-HOUTVORM-GD	60
+Ceilings	Common Edges	N-CO-HC-HOUTVORM-G	30	N-CO-HC-HOUTVORM-GD	60
+Ceilings	Cut Pattern	N-CO-HC-HOUTVORM-A	252	N-CO-HC-HOUTVORM-AD	252
+Ceilings	Finish 1 [4]	N-CO-HC-HOUTVORM-G	30	N-CO-HC-HOUTVORM-GD	60
+Ceilings	Finish 2 [5]	N-CO-HC-HOUTVORM-G	30	N-CO-HC-HOUTVORM-GD	60
+Ceilings	Hidden Lines	N-CO-HC-HOUTVORM-GN	10	N-CO-HC-HOUTVORM-GN	10
+Ceilings	Membrane Layer	N-CO-HC-HOUTVORM-G	30	N-CO-HC-HOUTVORM-GD	60
+Ceilings	Structure [1]	N-CO-HC-HOUTVORM-G	30	N-CO-HC-HOUTVORM-GD	60
+Ceilings	Substrate [2]	N-CO-HC-HOUTVORM-G	30	N-CO-HC-HOUTVORM-GD	60
+Ceilings	Surface Pattern	N-CO-HC-HOUTVORM-A	252	N-CO-HC-HOUTVORM-AD	60
+Ceilings	Thermal/Air Layer [3]	N-CO-HC-HOUTVORM-G	30	N-CO-HC-HOUTVORM-GD	60
+Columns		N-CO-BC-BETONVORM-G	50	N-CO-BC-BETONVORM-GD	90
+Columns	Hidden Lines	N-CO-BC-BETONVORM-GN	10	N-CO-BC-BETONVORM-GN	10
+Communication Devices		X-XX-AL-NTB-G	180		
+Conduit Fittings		X-XX-AL-NTB-G	180		
+Conduit Fittings	Center line	X-XX-AL-HARTLIJN-G	7		
+Conduits		X-XX-AL-NTB-G	180		
+Conduits	Center line	X-XX-AL-HARTLIJN-G	7		
+Conduits	Drop	X-XX-AL-T25	7		
+Conduits	Rise	X-XX-AL-T25	7		
+Curtain Panels		N-CO-SC-STAALVORM-G	7	N-CO-SC-STAALVORM-GD	90
+Curtain Panels	Beton	N-CO-MC-BETONVORM-G	50	N-CO-MC-BETONVORM-GD	50
+Curtain Panels	Glass	N-CO-MC-GLAS-G	7	N-CO-MC-GLAS-GD	90
+Curtain Panels	Hidden Lines	N-CO-SC-STAALVORM-GN	10	N-CO-SC-STAALVORM-GN	10
+Curtain Systems		N-CO-SC-STAALVORM-G	7	N-CO-SC-STAALVORM-GD	90
+Curtain Systems	Curtain System Grids	X-XX-AL-HARTLIJN-G	7	X-XX-AL-HARTLIJN-G	7
+Curtain Systems	Hidden Lines	N-CO-SC-STAALVORM-GN	10	N-CO-SC-STAALVORM-GN	10
+Curtain Wall Mullions		N-CO-SC-STAALVORM-G	7	N-CO-SC-STAALVORM-GD	90
+Curtain Wall Mullions	Hidden Lines	N-CO-SC-STAALVORM-GN	10	N-CO-SC-STAALVORM-GN	10
+Curtain Wall Mullions	Staal	N-CO-SC-STAALVORM-G	10	N-CO-SC-STAALVORM-GD	90
+Data Devices		X-XX-AL-NTB-G	180		
+Detail Items		X-XX-AL-CONSTRUCTIELIJN-G	7		
+Detail Items	Afbreeklijn	X-XX-AL-AFBREEKLIJN-G	7		
+Detail Items	Beton	N-CO-BC-BETONVORM-G	50		
+Detail Items	Hidden Lines	X-XX-AL-DETAIL-GN	10		
+Detail Items	Staal	N-CO-SC-STAALVORM-G	10		
+Detail Items	Stortnaad	N-CO-BC-STORTNAAD-G	7		
+Detail Items	Vloersparing	X-XX-AL-DETAIL-G	7		
+Detail Items	Vloersparingkruis	X-XX-AL-DETAIL-G	7		
+Doors		N-CO-BC-XXX_DEUR-G	30	N-CO-BC-XXX_DEUR-GD	40
+Doors	Frame/Mullion	N-CO-BC-XXX_DEUR-G	30	N-CO-BC-XXX_DEUR-GD	40
+Doors	Glass	N-CO-BC-XXX_DEUR-G	30	N-CO-BC-XXX_DEUR-GD	40
+Doors	Hidden Lines	N-CO-BC-XXX_DEUR-GN	10	N-CO-BC-XXX_DEUR-GN	10
+Doors	Opening	N-CO-BC-XXX_DEUR-G	30	N-CO-BC-XXX_DEUR-GD	40
+Doors	Panel	N-CO-BC-XXX_DEUR-G	30	N-CO-BC-XXX_DEUR-GD	40
+Duct Accessories		X-XX-AL-NTB-G	180		
+Duct Fittings		X-XX-AL-NTB-G	180		
+Duct Fittings	Center line	X-XX-AL-HARTLIJN-G	7		
+Duct Insulations		X-XX-AL-NTB-G	180		
+Duct Linings		X-XX-AL-NTB-G	180		
+Duct Placeholders		X-XX-AL-NTB-G	180		
+Ducts		X-XX-AL-NTB-G	180		
+Ducts	Center line	X-XX-AL-HARTLIJN-G	7		
+Ducts	Drop	X-XX-AL-T25	7		
+Ducts	Rise	X-XX-AL-T25	7		
+Electrical Equipment		X-XX-AL-NTB-G	180		
+Electrical Equipment	Hidden Lines	X-XX-AL-NTB-GN	200		
+Electrical Fixtures		X-XX-AL-NTB-G	180		
+Electrical Fixtures	Hidden Lines	X-XX-AL-NTB-GN	200		
+Entourage		X-XX-AL-NTB-G	180		
+Entourage	Auto	X-XX-AL-NTB-G	180		
+Entourage	Bomen	X-XX-AL-NTB-G	180		
+Entourage	Hidden Lines	X-XX-AL-NTB-GN	200		
+Entourage	Mensen	X-XX-AL-NTB-G	180		
+Fire Alarm Devices		X-XX-AL-NTB-G	180		
+Flex Ducts		X-XX-AL-NTB-G	180		
+Flex Ducts	Center line	X-XX-AL-HARTLIJN-G	7		
+Flex Ducts	Pattern	X-XX-AL-NTB-A	252		
+Flex Pipes		X-XX-AL-NTB-G	180		
+Flex Pipes	Center Line	X-XX-AL-HARTLIJN-G	7		
+Flex Pipes	Pattern	X-XX-AL-NTB-A	252		
+Floors		N-CO-BC-BETONVORM-G	50	N-CO-BC-BETONVORM-GD	90
+Floors	Asfalt	N-WE-VH-ASFALT-G	253	N-WE-VH-ASFALT-GD	90
+Floors	Beton	N-CO-BC-BETONVORM-G	50	N-CO-BC-BETONVORM-GD	90
+Floors	Common Edges	N-CO-BC-BETONVORM-G	50	N-CO-BC-BETONVORM-GD	90
+Floors	Cut Pattern	N-CO-BC-BETONVORM-A	252	N-CO-BC-BETONVORM-AD	252
+Floors	Finish 1 [4]	N-CO-BC-BETONVORM-G	50	N-CO-BC-BETONVORM-GD	90
+Floors	Finish 2 [5]	N-CO-BC-BETONVORM-G	50	N-CO-BC-BETONVORM-GD	90
+Floors	Hidden Lines	N-CO-BC-BETONVORM-GN	10	N-CO-BC-BETONVORM-GN	10
+Floors	Hout	N-CO-HC-HOUTVORM-G	30	N-CO-HC-HOUTVORM-GD	60
+Floors	Hulpconstructies	N-CO-HU-HULPCONSTRUCTIES-G	252	N-CO-HU-HULPCONSTRUCTIES-GD	130
+Floors	Interior Edges	N-CO-BC-BETONVORM-G	50	N-CO-BC-BETONVORM-GD	90
+Floors	Kunststof	N-CO-KC-KUNSTSTOFVORM-G	7	N-CO-KC-KUNSTSTOFVORM-GD	90
+Floors	Membrane Layer	N-CO-BC-BETONVORM-G	50	N-CO-BC-BETONVORM-GD	90
+Floors	Slab Edges	N-CO-BC-BETONVORM-G	50	N-CO-BC-BETONVORM-GD	90
+Floors	Staal	N-CO-SC-STAALVORM-G	10	N-CO-SC-STAALVORM-GD	90
+Floors	Structure [1]	N-CO-BC-BETONVORM-G	50	N-CO-BC-BETONVORM-GD	90
+Floors	Substrate [2]	N-CO-BC-BETONVORM-G	50	N-CO-BC-BETONVORM-GD	90
+Floors	Surface Pattern	N-CO-BC-BETONVORM-A	252	N-CO-BC-BETONVORM-AD	252
+Floors	Thermal/Air Layer [3]	N-CO-BC-BETONVORM-G	50	N-CO-BC-BETONVORM-GD	90
+Furniture		X-XX-AL-NTB-G	180		
+Furniture	Hidden Lines	X-XX-AL-NTB-GN	200		
+Furniture Systems		X-XX-AL-NTB-G	180		
+Furniture Systems	Hidden Lines	X-XX-AL-NTB-GN	200		
+Generic Models		N-CO-BC-BETONVORM-G	50	N-CO-BC-BETONVORM-GD	90
+Generic Models	Asfalt	N-WE-VH-ASFALT-G	253	N-WE-VH-ASFALT-GD	90
+Generic Models	Beton	N-CO-BC-BETONVORM-G	50	N-CO-BC-BETONVORM-GD	90
+Generic Models	Hidden Lines	N-CO-BC-BETONVORM-GN	10	N-CO-BC-BETONVORM-GN	10
+Generic Models	Hout	N-CO-HC-HOUTVORM-G	30	N-CO-HC-HOUTVORM-GD	90
+Generic Models	Hulpconstructies	N-CO-HU-HULPCONSTRUCTIES-G	7	N-CO-HU-HULPCONSTRUCTIES-GD	90
+Generic Models	Kunststof	N-CO-KC-KUNSTSTOFVORM-G	7	N-CO-KC-KUNSTSTOFVORM-GD	90
+Generic Models	Opening Elevation	N-CO-BC-BETONVORM-G	50	N-CO-BC-BETONVORM-GN	90
+Generic Models	Overhead	N-CO-BC-BETONVORM-G	50	N-CO-BC-BETONVORM-GN	90
+Generic Models	Staal	N-CO-SC-STAALVORM-G	10	N-CO-SC-STAALVORM-GD	90
+HVAC Zones		N-WE-KG-GRENS-G	150		
+HVAC Zones	Boundary	N-WE-KG-GRENS-G	150		
+HVAC Zones	Color Fill	N-WE-KG-GRENS-A	132		
+HVAC Zones	Interior Fill	N-WE-KG-GRENS-A	132		
+HVAC Zones	Reference Lines	N-WE-KG-GRENS-G	150		
+Lighting Devices		X-XX-AL-NTB-G	180		
+Lighting Fixtures		X-XX-AL-NTB-G	180		
+Lighting Fixtures	Hidden Lines	X-XX-AL-NTB-GN	200		
+Lighting Fixtures	Light Source	X-XX-AL-NTB-G	180		
+Lines		X-XX-AL-CONSTRUCTIELIJN-G	7		
+Lines	<Area Boundary>	N-WE-KG-GRENS-G	150		
+Lines	<Beyond>	X-XX-AL-XXX	7		
+Lines	<Centerline>	X-XX-AL-HARTLIJN-G	7		
+Lines	<Demolished>	N-CO-BC-SLOOPLIJN	1		
+Lines	<Fabric Envelope>	X-XX-AL-DETAIL2-G	7		
+Lines	<Fabric Sheets>	X-XX-AL-DETAIL2-G	7		
+Lines	<Hidden>	X-XX-AL-DETAIL1-GN	1		
+Lines	<Overhead>	X_XX_AL_DETAIL4_G	7		
+Lines	<Room Separation>	N-WE-KG-GRENS-G	150		
+Lines	<Sketch>	X-XX-AL-HULP-G	190		
+Lines	<Space Separation>	N-WE-KG-GRENS-G	150		
+Lines	Afbreeklijn	X-XX-AL-CONSTRUCTIELIJN-G	7		
+Lines	As_Hoofdrijbaan	X-XX-AL-CONSTRUCTIELIJN-G	7		
+Lines	Asfalt_Aanzicht	N-WE-VH-ASFALT-G	253		
+Lines	Asfalt_Doorsnede	N-WE-VH-ASFALT-GD	253		
+Lines	Axis of Rotation	X-XX-AL-HULP-G	190		
+Lines	Beton_Aanzicht	N-CO-BC-BETONVORM-G	50		
+Lines	Beton_Doorsnede	N-CO-BC-BETONVORM-GD	90		
+Lines	Beton_Niet zichtbaar	N-CO-BC-BETONVORM-GN	10		
+Lines	Constructielijn	X-XX-AL-CONSTRUCTIELIJN-G	7		
+Lines	Edges	X-XX-AL-CONSTRUCTIELIJN-G	7		
+Lines	Grondkering_Aanzicht	N-CO-GC-GRONDKERING-G	60		
+Lines	Grondkering_Doorsnede	N-CO-GC-GRONDKERING-GD	30		
+Lines	Grondkering_Niet zichtbaar	N-CO-GC-GRONDKERING-GN	10		
+Lines	Grondwerk_Aanzicht	N-WE-GW-GROND_WERK-G	7		
+Lines	Grondwerk_Doorsnede	N-WE-GW-GROND_WERK-GD	7		
+Lines	Hartlijn	X-XX-AL-HARTLIJN-G	7		
+Lines	Hidden Lines	X-XX-AL-DETAIL1-GN	1		
+Lines	Insulation Batting Lines	N-CO-MW-ISOLATIE-GD	140		
+Lines	Lines	X-XX-AL-DETAIL2-G	7		
+Lines	Maaiveld_Bestaand	X-XX-AL-CONSTRUCTIELIJN-G	7		
+Lines	Medium Lines	X-XX-AL-DETAIL3-G	7		
+Lines	Paalfundering_Aanzicht	X-XX-AL-CONSTRUCTIELIJN-G	7		
+Lines	Paalfundering_Doorsnede	X-XX-AL-CONSTRUCTIELIJN-G	7		
+Lines	Paalfundering_Hartlijn	X-XX-AL-CONSTRUCTIELIJN-G	7		
+Lines	PVR	X-XX-AL-CONSTRUCTIELIJN-G	7		
+Lines	Staal_Aanzicht	N-CO-SC-STAALVORM-G	10		
+Lines	Staal_Doorsnede	N-CO-SC-STAALVORM_GD	7		
+Lines	Staal_Niet zichtbaar	N-CO-SC-STAALVORM_GN	10		
+Lines	Stramienlijn	X-XX-AL-CONSTRUCTIELIJN-G	7		
+Lines	Taludlijnen	X-XX-AL-CONSTRUCTIELIJN-G	7		
+Lines	Text Lines	X-XX-AL-CONSTRUCTIELIJN-G	7		
+Lines	Thin Lines	X_XX_AL_DETAIL1_G	7		
+Lines	Wide Lines	X_XX_AL_DETAIL4_G	7		
+Lines	Wijzigingsblok contour	X-XX-AL-BLADVERWIJZING_CONTOUR-G	7		
+Lines	Wijzigingsblok intern	X-XX-AL-BLADVERWIJZING_CONTOUR-G	7		
+Lines	Zandcementstabilisatie	X-XX-AL-CONSTRUCTIELIJN-G	7		
+Mass		N-CO-BC-XXX_MASSA-G	7	N-CO-BC-XXX_MASSA-GD	90
+Mass	Beton	N-CO-BC-BETONVORM-G	50	N-CO-BC-BETONVORM-GD	90
+Mass	Form	N-CO-BC-XXX_MASSA-G	7	N-CO-BC-XXX_MASSA-GD	90
+Mass	Gridlines	X-XX-AL-HARTLIJN-G	7	X-XX-AL-HARTLIJN-GD	7
+Mass	Hidden Lines	N-CO-BC-XXX_MASSA-GN	7	N-CO-BC-XXX_MASSA-GN	7
+Mass	Kunststof	N-CO-KC-KUNSTSTOFVORM-G	7	N-CO-KC-KUNSTSTOFVORM-GD	90
+Mass	Mass Floor	N-CO-BC-BETONVORM-G	7	N-CO-BC-BETONVORM-GD	90
+Mass	Nodes	N-CO-BC-XXX_MASSA-G	7	N-CO-BC-XXX_MASSA-GD	90
+Mass	Pattern Fill	N-CO-BC-XXX-AD	252	N_CO_BC_BETONVORM_AD	252
+Mass	Pattern Lines	N-CO-BC-XXX-AD	252	N_CO_BC_BETONVORM_AD	252
+Mass	Staal	N-CO-BC-STAALVORM-G	10	N-CO-BC-STAALVORM-GD	90
+Mechanical Equipment		X-XX-AL-NTB-G	180		
+Mechanical Equipment	Hidden Lines	X-XX-AL-NTB-GN	200		
+Nurse Call Devices		X-XX-AL-NTB-G	180		
+Parking		N-WE-VW-MARKERING_PARKEERVAK-G	7		
+Parking	Hidden Lines	N-WE-VW-MARKERING_PARKEERVAK-GN	7		
+Parts		N-CO-XX-XXX_PARTS-G	180	N-CO-XX-XXX_PARTS-GD	90
+Parts	Hidden Lines	N-CO-XX-XXX_PARTS-GN	200	N-CO-XX-XXX_PARTS-GN	200
+Pipe Accessories		X-XX-AL-NTB-G	180		
+Pipe Fittings		X-XX-AL-NTB-G	180		
+Pipe Fittings	Center line	X-XX-AL-HARTLIJN-G	7		
+Pipe Insulations		X-XX-AL-NTB-G	180		
+Pipe Placeholders		X-XX-AL-NTB-G	180		
+Pipes		X-XX-AL-NTB-G	180		
+Pipes	Center Line	X-XX-AL-HARTLIJN-G	7		
+Pipes	Drop	X-XX-AL-NTB-G	180		
+Pipes	Rise	X-XX-AL-NTB-G	180		
+Planting		N-WE-GR-BEPLANTING-G	90		
+Planting	Hidden Lines	N-WE-GR-BEPLANTING-GN	90		
+Plumbing Fixtures		X-XX-AL-NTB-G	180		
+Plumbing Fixtures	Hidden Lines	X-XX-AL-NTB-GN	200		
+Railings		N-CO-SC-STAALVORM-G	7	N-CO-SC-STAALVORM-GD	7
+Railings	<Above> Handrails	N-CO-SC-STAALVORM-GN	10	N-CO-SC-STAALVORM-GN	10
+Railings	<Above> Railings Cut Line	N-CO-SC-STAALVORM-GN	10	N-CO-SC-STAALVORM-GN	10
+Railings	<Above> Top Rails	N-CO-SC-STAALVORM-GN	10	N-CO-SC-STAALVORM-GN	10
+Railings	Balusters	N-CO-SC-STAALVORM-G	7	N-CO-SC-STAALVORM-GD	90
+Railings	Handrails	N-CO-SC-STAALVORM-G	7	N-CO-SC-STAALVORM-GD	90
+Railings	Hidden Lines	N-CO-SC-STAALVORM-GN	10	N-CO-SC-STAALVORM-GN	10
+Railings	Rails	N-CO-SC-STAALVORM-G	7	N-CO-SC-STAALVORM-GD	90
+Railings	Supports	N-CO-SC-STAALVORM-G	7	N-CO-SC-STAALVORM-GD	90
+Railings	Terminations	N-CO-SC-STAALVORM-G	7	N-CO-SC-STAALVORM-GD	90
+Railings	Top Rails	N-CO-SC-STAALVORM-G	7	N-CO-SC-STAALVORM-GD	90
+Ramps		N-CO-BC-BETONVORM-G	50	N-CO-BC-BETONVORM-GN	10
+Ramps	Beton	N-CO-BC-BETONVORM-G	50	N-CO-BC-BETONVORM-GD	90
+Ramps	Down Arrow	X-XX-AL-AANPIJLING-G	7	X-XX-AL-AANPIJLING-GD	7
+Ramps	DOWN text	X-XX-AL-T25	7	X-XX-AL-T25	7
+Ramps	Hidden Lines	N-CO-BC-BETONVORM-GN	10	N-CO-BC-BETONVORM-GN	10
+Ramps	Hout	N-CO-HC-HOUTVORM-G	30	N-CO-HC-HOUTVORM-GD	90
+Ramps	Ramps Beyond Cut Line	N-CO-BC-BETONVORM-GN	10	N-CO-BC-BETONVORM-GN	10
+Ramps	Staal	N-CO-SC-STAALVORM-G	10	N-CO-SC-STAALVORM-GD	90
+Ramps	Stringers	N-CO-BC-BETONVORM-G	50	N-CO-BC-BETONVORM-GD	90
+Ramps	Stringers Beyond Cut Line	N-CO-BC-BETONVORM-GN	7	N-CO-BC-BETONVORM-GN	10
+Ramps	Up Arrow	X-XX-AL-AANPIJLING-G	7	X-XX-AL-VERWIJZING-G	7
+Ramps	UP text	X-XX-AL-T25	7	X-XX-AL-T25	7
+Raster Images		X-XX-AL-REFERENTIE-G	7		
+Roads		N-WE-VH-VERHARDING-G	252	N_WE_VH_VERHARDING_GD	252
+Roads	Asfalt	N-WE-VH-VERHARDING_ASFALT-G	253	N-WE-VH-VERHARDING_ASFALT-GD	252
+Roads	Beton	N-WE-VH-VERHARDING_BETON-G	252	N-WE-VH-VERHARDING_BETON-GD	252
+Roads	Hidden Lines	N-WE-VH-ASFALT-GN	253	N_WE_VH_VERHARDING_GN	253
+Roofs		N-CO-HC-HOUTVORM-G	30	N-CO-HC-HOUTVORM-GD	60
+Roofs	Beton	N-CO-BC-BETONVORM-G	50	N-CO-BC-BETONVORM-GD	60
+Roofs	Common Edges	N-CO-HC-HOUTVORM-G	30	N-CO-HC-HOUTVORM-GD	60
+Roofs	Curtain Roof Grids	X-XX-AL-HARTLIJN-G	7	X-XX-AL-HARTLIJN-G	7
+Roofs	Cut Pattern	N-CO-HC-HOUTVORM-A	252	N-CO-HC-HOUTVORM-AD	252
+Roofs	Fascias	N-CO-HC-HOUTVORM-G	30	N-CO-HC-HOUTVORM-GD	60
+Roofs	Finish 1 [4]	N-CO-HC-HOUTVORM-G	30	N-CO-HC-HOUTVORM-GD	60
+Roofs	Finish 2 [5]	N-CO-HC-HOUTVORM-G	30	N-CO-HC-HOUTVORM-GD	60
+Roofs	Gutters	N-CO-HC-HOUTVORM-G	30	N-CO-HC-HOUTVORM-GD	60
+Roofs	Hidden Lines	N-CO-HC-HOUTVORM-GN	10	N-CO-HC-HOUTVORM-GN	10
+Roofs	Hout	N-CO-BC-HOUTVORM-G	30	N-CO-BC-HOUTVORM-GD	90
+Roofs	Hulpconstructies	N-CO-HU-HULPCONSTRUCTIES-G	7	N-CO-HU-HULPCONSTRUCTIES-GD	90
+Roofs	Interior Edges	N-CO-HC-HOUTVORM-G	30	N-CO-HC-HOUTVORM-GD	60
+Roofs	Membrane Layer	N-CO-HC-HOUTVORM-G	30	N-CO-HC-HOUTVORM-GD	60
+Roofs	Roof Soffits	N-CO-HC-HOUTVORM-G	30	N-CO-HC-HOUTVORM-GD	60
+Roofs	Staal	N-CO-BC-STAALVORM-G	10	N-CO-BC-STAALVORM-GD	90
+Roofs	Structure [1]	N-CO-HC-HOUTVORM-G	30	N-CO-HC-HOUTVORM-GD	60
+Roofs	Substrate [2]	N-CO-HC-HOUTVORM-G	30	N-CO-HC-HOUTVORM-GD	60
+Roofs	Surface Pattern	N-CO-HC-HOUTVORM-A	252	N-CO-HC-HOUTVORM-AD	252
+Roofs	Thermal/Air Layer [3]	N-CO-HC-HOUTVORM-G	30	N-CO-HC-HOUTVORM-GD	60
+Rooms		N-WE-KG-GRENS-G	150		
+Rooms	Color Fill	N-WE-KG-GRENS-A	132		
+Rooms	Interior Fill	N-WE-KG-GRENS-A	132		
+Rooms	Reference	N-WE-KG-GRENS-G	150		
+Security Devices		X-XX-AL-NTB-G	180		
+Shaft Openings		N-CO-MC-MECHANISCHVORM-G	60		
+Shaft Openings	Hidden Lines	N-CO-MC-MECHANISCHVORM-GN	20		
+Site		N-WE-OG-DTM-G	7	N-WE-OG-DTM-GD	7
+Site	Grondwerk	N-WE-OG-DTM-G	7	N-WE-OG-DTM-GD	7
+Site	Hidden Lines	N-WE-OG-DTM-GN	7	N-WE-OG-DTM-GN	7
+Site	Maaiveld	N-WE-OG-DTM-G	7	N-WE-OG-DTM-GD	7
+Site	Noordpijl	N-WE-OG-DTM-G	7	N-WE-OG-DTM-GD	7
+Site	Pads	N-WE-OG-DTM-G	7	N-WE-OG-DTM-GD	7
+Site	Project Base Point	N-WE-OG-COORDINAAT-G	7	N-WE-OG-COORDINAAT-G	7
+Site	Property Lines	N-WE-OG-GRENS-G	7	N-WE-OG-GRENS-G	7
+Site	Survey Point	N-WE-OG-COORDINAAT-G	7	N-WE-OG-COORDINAAT-G	7
+Spaces		N-WE-KG-GRENS-G	150		
+Spaces	Color Fill	N-WE-KG-GRENS-A	132		
+Spaces	Interior	N-WE-KG-GRENS-A	132		
+Spaces	Reference	N-WE-KG-GRENS-G	150		
+Specialty Equipment		X-XX-AL-NTB-G	180		
+Specialty Equipment	Hidden Lines	X-XX-AL-NTB-GN	200		
+Sprinklers		X-XX-AL-NTB-G	180		
+Stairs		N-CO-BC-BETONVORM-G	50	N-CO-BC-BETONVORM-GD	90
+Stairs	<Above> Cut Marks	N-CO-BC-BETONVORM-GN	10	N-CO-BC-BETONVORM-GN	10
+Stairs	<Above> Nosing Lines	N-CO-BC-BETONVORM-GN	10	N-CO-BC-BETONVORM-GN	10
+Stairs	<Above> Outlines	N-CO-BC-BETONVORM-GN	10	N-CO-BC-BETONVORM-GN	10
+Stairs	<Above> Riser Lines	N-CO-BC-BETONVORM-GN	10	N-CO-BC-BETONVORM-GN	10
+Stairs	<Above> Supports	N-CO-BC-BETONVORM-GN	10	N-CO-BC-BETONVORM-GN	10
+Stairs	Beton	N-CO-BC-BETONVORM-G	50	N-CO-BC-BETONVORM-GD	90
+Stairs	Cut Marks	N-CO-BC-BETONVORM-G	50	N-CO-BC-BETONVORM-GD	90
+Stairs	Hidden Lines	N-CO-BC-BETONVORM-GN	10	N-CO-BC-BETONVORM-GN	10
+Stairs	Hout	N-CO-HC-HOUTVORM-G	30	N-CO-HC-HOUTVORM-GD	90
+Stairs	Nosing Lines	N-CO-BC-BETONVORM-G	50	N-CO-BC-BETONVORM-GD	90
+Stairs	Outlines	N-CO-BC-BETONVORM-G	50	N-CO-BC-BETONVORM-GD	90
+Stairs	Riser Lines	N-CO-BC-BETONVORM-G	50	N-CO-BC-BETONVORM-GD	90
+Stairs	Staal	N-CO-SC-STAALVORM-G	10	N-CO-SC-STAALVORM-GD	90
+Stairs	Supports	N-CO-BC-BETONVORM-G	50	N-CO-BC-BETONVORM-GD	90
+Stairs	Treads/Risers	N-CO-BC-BETONVORM-G	50	N-CO-BC-BETONVORM-GD	90
+Structural Area Reinforcement		N-CO-BC-WAPENING-G	170	N-CO-BC-WAPENING-GD	130
+Structural Area Reinforcement	Boundary	N-CO-BC-WAPENING-G	170	N-CO-BC-WAPENING-GD	130
+Structural Beam Systems		N-CO-BC-BETONVORM-G	50		
+Structural Beam Systems	Beton	N-CO-BC-BETONVORM-G	50		
+Structural Beam Systems	Hout	N-CO-HC-HOUTVORM-G	30		
+Structural Beam Systems	Staal	N-CO-SC-STAALVORM-G	10		
+Structural Columns		N-CO-BC-BETONVORM-G	50	N-CO-BC-BETONVORM-GD	90
+Structural Columns	Beton	N-CO-BC-BETONVORM-G	50	N-CO-BC-BETONVORM-GD	90
+Structural Columns	Hartlijn	N-CO-XX-HARTLIJN-G	7	N-CO-XX-HARTLIJN-G	7
+Structural Columns	Hidden Faces	N-CO-SC-STAALVORM-GN	10	N-CO-SC-STAALVORM-GN	10
+Structural Columns	Hidden Lines	N-CO-BC-BETONVORM-GN	10	N-CO-BC-BETONVORM-GN	10
+Structural Columns	Hout	N-CO-HC-HOUTVORM-G	30	N-CO-HC-HOUTVORM-GD	90
+Structural Columns	Rigid Links	N-CO-BC-BETONVORM-G	50	N-CO-BC-BETONVORM-GD	90
+Structural Columns	Staal	N-CO-SC-STAALVORM-G	10	N-CO-SC-STAALVORM-GD	90
+Structural Columns	Stick Symbols	N-CO-AL-T25	7	N-CO-AL-T25	7
+Structural Connections		N-CO-SC-STAALVORM-G	10	N-CO-SC-STAALVORM-GD	90
+Structural Connections	Hidden Lines	N-CO-SC-STAALVORM-G	10	N-CO-SC-STAALVORM-GD	90
+Structural Fabric Areas		N-CO-BC-WAPENING-G	170	N-CO-BC-WAPENING-GD	130
+Structural Fabric Areas	Boundary	N-CO-BC-WAPENING-G	170	N-CO-BC-WAPENING-GD	130
+Structural Fabric Reinforcement		N-CO-BC-WAPENING-G	170	N-CO-BC-WAPENING-GD	130
+Structural Fabric Reinforcement	Boundary	N-CO-BC-WAPENING-G	170	N-CO-BC-WAPENING-GD	130
+Structural Fabric Reinforcement	Fabric Wire	N-CO-BC-WAPENING-G	170	N-CO-BC-WAPENING-GD	130
+Structural Foundations		N-CO-AL-XXX_FUNDERING-G	7	N-CO-AL-XXX_FUNDERING-GD	90
+Structural Foundations	Beton	N-CO-BC-BETONVORM-G	50	N-CO-BC-BETONVORM-GD	90
+Structural Foundations	Hartlijn	N-CO-XX-HARTLIJN-G	7	N-CO-XX-HARTLIJN-G	7
+Structural Foundations	Hidden Lines	N-CO-AL-XXX_FUNDERING-GN	7	N-CO-AL-XXX_FUNDERING-GN	7
+Structural Foundations	Hulpconstructies	N-CO-HU-HULPCONSTRUCTIES-G	7	N-CO-HU-HULPCONSTRUCTIES-GD	90
+Structural Foundations	Metselwerk	N-CO-MC-METSELWERKVORM-G	50	N-CO-MC-METSELWERKVORM-GD	90
+Structural Foundations	Plan Rep	N-CO-AL-XXX_FUNDERING-G	7	N-CO-AL-XXX_FUNDERING-GD	90
+Structural Foundations	Staal	N-CO-SC-STAALVORM-G	10	N-CO-SC-STAALVORM-GD	90
+Structural Framing		N-CO-BC-BETONVORM-G	50	N-CO-BC-BETONVORM-GD	90
+Structural Framing	Beton	N-CO-BC-BETONVORM-G	50	N-CO-BC-BETONVORM-GD	90
+Structural Framing	Chord	N-CO-SC-STAALVORM-G	10	N-CO-SC-STAALVORM-GD	90
+Structural Framing	Girder	N-CO-SC-STAALVORM-G	10	N-CO-SC-STAALVORM-GD	90
+Structural Framing	Hidden Faces	N-CO-BC-BETONVORM-GN	10	N-CO-BC-BETONVORM-GN	10
+Structural Framing	Hidden Lines	N-CO-BC-BETONVORM-GN	10	N-CO-BC-BETONVORM-GN	10
+Structural Framing	Horizontal Bracing	N-CO-SC-STAALVORM-G	10	N-CO-SC-STAALVORM-GD	90
+Structural Framing	Hout	N-CO-HC-HOUTVORM-G	30	N-CO-HC-HOUTVORM-GD	90
+Structural Framing	Hulpconstructies	N-CO-HU-HULPCONSTRUCTIES-G	7	N-CO-HU-HULPCONSTRUCTIES-GD	90
+Structural Framing	Joist	N-CO-SC-STAALVORM-G	10	N-CO-SC-STAALVORM-GD	90
+Structural Framing	Kicker Bracing	N-CO-SC-STAALVORM-G	10	N-CO-SC-STAALVORM-GD	90
+Structural Framing	Kunststof	N-CO-KC-KUNSTSTOFVORM-G	7	N-CO-KC-KUNSTSTOFVORM-GD	90
+Structural Framing	Other	N-CO-SC-STAALVORM-G	10	N-CO-SC-STAALVORM-GD	90
+Structural Framing	Purlin	N-CO-SC-STAALVORM-G	10	N-CO-SC-STAALVORM-GD	90
+Structural Framing	Rigid Links	N-CO-SC-STAALVORM-G	10	N-CO-SC-STAALVORM-GD	90
+Structural Framing	Staal	N-CO-SC-STAALVORM-G	10	N-CO-SC-STAALVORM-GD	90
+Structural Framing	Stick Symbols	N-CO-AL-T25	7	N-CO-AL-T25	7
+Structural Framing	Vertical Bracing	N-CO-SC-STAALVORM-G	10	N-CO-SC-STAALVORM-GD	90
+Structural Framing	Web	N-CO-SC-STAALVORM-G	10	N-CO-SC-STAALVORM-GD	90
+Structural Path Reinforcement		N-CO-BC-WAPENING-G	170	N-CO-BC-WAPENING-GD	130
+Structural Path Reinforcement	Boundary	N-CO-BC-WAPENING-G	170	N-CO-BC-WAPENING-GD	130
+Structural Rebar		N-CO-BC-WAPENING-G	170	N-CO-BC-WAPENING-GD	130
+Structural Stiffeners		N-CO-SC-STAALVORM-G	10	N-CO-SC-STAALVORM-GD	90
+Structural Trusses		N-CO-SC-STAALVORM-G	10		
+Structural Trusses	Stick Symbols	N-CO-AL-T25	7		
+Telephone Devices		X-XX-AL-NTB-G	180		
+Topography		N_WE_OG_TOPOGRAFIE_G	7	N_WE_OG_TOPOGRAFIE_GD	7
+Topography	Boundary Point	N_WE_OG_HOOGTEPUNT_G	7	N_WE_OG_HOOGTEPUNT_GD	7
+Topography	Hidden Lines	N_WE_OG_TOPOGRAFIE_GN	7	N_WE_OG_TOPOGRAFIE_GN	7
+Topography	Interior Point	N_WE_OG_HOOGTEPUNT_G	7	N_WE_OG_HOOGTEPUNT_GD	7
+Topography	Primary Contours	N-WE-OG-HOOGTELIJN_MAJOR-G	7	N-WE-OG-HOOGTELIJN_MAJOR-GD	7
+Topography	Secondary Contours	N-WE-OG-HOOGTELIJN_MINOR-G	7	N-WE-OG-HOOGTELIJN_MINOR-GD	7
+Topography	Triangulation Edges	N_WE_OG_TRIANGULATIE_G	7	N_WE_OG_TRIANGULATIE_GD	7
+Walls		N-CO-BC-BETONVORM-G	50	N-CO-BC-BETONVORM-GD	90
+Walls	Asfalt	N-WE-VH-VERHARDING_ASFALT-G	253	N-WE-VH-VERHARDING_ASFALT-GD	252
+Walls	Beton	N-CO-BC-BETONVORM-G	50	N-CO-BC-BETONVORM-GD	90
+Walls	Common Edges	N-CO-BC-BETONVORM-G	50	N-CO-BC-BETONVORM-GD	90
+Walls	Curtain Wall Grids	X-XX-AL-HARTLIJN-G	7	X-XX-AL-HARTLIJN-G	7
+Walls	Cut Pattern	N-CO-BC-BETONVORM-AD	252	N-CO-BC-BETONVORM-AD	252
+Walls	Finish 1 [4]	N-CO-BC-BETONVORM-G	7	N-CO-BC-BETONVORM-GD	90
+Walls	Finish 2 [5]	N-CO-BC-BETONVORM-G	7	N-CO-BC-BETONVORM-GD	90
+Walls	Hidden Lines	N-CO-BC-BETONVORM-GN	7	N-CO-BC-BETONVORM-GN	7
+Walls	Hout	N-CO-HC-HOUTVORM-G	30	N-CO-HC-HOUTVORM-GD	60
+Walls	Hulpconstructies	N-CO-HU-HULPCONSTRUCTIES-G	7	N-CO-HU-HULPCONSTRUCTIES-GD	90
+Walls	Kunststof	N-CO-KC-KUNSTSTOFVORM-G	40	N-CO-KC-KUNSTSTOFVORM-GD	90
+Walls	Membrane Layer	N-CO-MW-ISOLATIE-G	60	N-CO-MW-ISOLATIE-GD	140
+Walls	Structure [1]	N-CO-BC-BETONVORM-G	7	N-CO-BC-BETONVORM-GD	90
+Walls	Substrate [2]	N-CO-BC-BETONVORM-G	7	N-CO-BC-BETONVORM-GD	90
+Walls	Surface Pattern	N-CO-BC-BETONVORM-A	252	N-CO-MC-XXX_MUUR-AD	252
+Walls	Thermal/Air Layer [3]	X-XX-AL-NTB-G	180	N-CO-MC-XXX_MUUR-GD	90
+Walls	Wall Sweeps	N-CO-BC-BETONVORM-G	7	N-CO-BC-BETONVORM-GD	90
+Walls/Interior		N-CO-BC-BETONVORM-G	7	N-CO-BC-BETONVORM-GD	90
+Walls/Exterior		N-CO-BC-BETONVORM-G	7	N-CO-BC-BETONVORM-GD	90
+Walls/Foundation		N-CO-BC-BETONVORM-G	7	N-CO-BC-BETONVORM-GD	90
+Walls/Retaining		N-CO-BC-BETONVORM-G	7	N-CO-BC-BETONVORM-GD	90
+Windows		N-CO-HC-HOUTVORM-G	30	N-CO-HC-HOUTVORM-GD	60
+Windows	Frame/Mullion	N-CO-HC-HOUTVORM-G	30	N-CO-HC-HOUTVORM-GD	60
+Windows	Glass	N-CO-MC-XXX_RAAM-G	7	N-CO-MC-XXX_RAAM-GD	90
+Windows	Hidden Lines	N-CO-HC-HOUTVORM-GN	10	N-CO-HC-HOUTVORM-GN	10
+Windows	Opening	N-CO-HC-HOUTVORM-G	30	N-CO-HC-HOUTVORM-GD	60
+Windows	Sill/Head	N-CO-HC-HOUTVORM-G	30	N-CO-HC-HOUTVORM-GD	60
+Wires		N-WE-KL-ET-G	10	N-WE-KL-ET-GD	90
+Wires	Home Run Arrows	N-WE-KL-AANPIJLING-G	7	N-WE-KL-AANPIJLING-G	90
+Wires	Wire Tick Marks	N-WE-KL-AANPIJLING-G	7	N-WE-KL-AANPIJLING-G	7
+#Annotation categories					
+Adaptive Points		X-XX-AL-REFERENTIE-G	7		
+Adaptive Points	Lines	X-XX-AL-REFERENTIE-G	7		
+Adaptive Points	Planes	X-XX-AL-REFERENTIE-G	7		
+Adaptive Points	Points	X-XX-AL-REFERENTIE-G	7		
+Air Terminal Tags		X-XX-AL-VERWIJZING-G	7		
+Analytical Beam Tags		X-XX-AL-VERWIJZING-G	7		
+Analytical Brace Tags		X-XX-AL-VERWIJZING-G	7		
+Analytical Column Tags		X-XX-AL-VERWIJZING-G	7		
+Analytical Floor Tags		X-XX-AL-VERWIJZING-G	7		
+Analytical Isolated Foundation Tags		X-XX-AL-VERWIJZING-G	7		
+Analytical Link Tags		X-XX-AL-VERWIJZING-G	7		
+Analytical Node Tags		X-XX-AL-VERWIJZING-G	7		
+Analytical Slab Foundation Tags		X-XX-AL-VERWIJZING-G	7		
+Analytical Wall Foundation Tags		X-XX-AL-VERWIJZING-G	7		
+Analytical Wall Tags		X-XX-AL-VERWIJZING-G	7		
+Area Load Tags		X-XX-AL-VERWIJZING-G	7		
+Area Tags		X-XX-AL-VERWIJZING-G	7		
+Assembly Tags		X-XX-AL-VERWIJZING-G	7		
+Brace in Plan View Symbols		X-XX-AL-VERWIJZING-G	7		
+Cable Tray Fitting Tags		X-XX-AL-VERWIJZING-G	7		
+Cable Tray Tags		X-XX-AL-VERWIJZING-G	7		
+Callouts		X_XX_AL_VERWIJZING_DETAIL_G	7		
+Casework Tags		X-XX-AL-VERWIJZING-G	7		
+Ceiling Tags		X-XX-AL-VERWIJZING-G	7		
+Color Fill Legends		X-XX-AL-LEGENDA-G	7		
+Communication Device Tags		X-XX-AL-VERWIJZING-G	7		
+Conduit Fitting Tags		X-XX-AL-VERWIJZING-G	7		
+Conduit Tags		X-XX-AL-VERWIJZING-G	7		
+Connection Symbols		X-XX-AL-VERWIJZING-G	7		
+Contour Labels		X-XX-AL-T25	7		
+Curtain Panel Tags		X-XX-AL-VERWIJZING-G	7		
+Curtain System Tags		X-XX-AL-VERWIJZING-G	7		
+Data Device Tags		X-XX-AL-VERWIJZING-G	7		
+Detail Item Tags		X-XX-AL-VERWIJZING-G	7		
+Dimensions		X-XX-AL-M	7		
+Dimensions	Automatic Sketch Dimensions	X-XX-AL-M	7		
+Dimensions	Displacement Path	X-XX-AL-NTB-G	180		
+Door Tags		X-XX-AL-VERWIJZING-G	7		
+Duct Accessory Tags		X-XX-AL-VERWIJZING-G	7		
+Duct Color Fill		X-XX-AL-LEGENDA-G	7		
+Duct Color Fill Legends		X-XX-AL-LEGENDA-G	7		
+Duct Fitting Tags		X-XX-AL-VERWIJZING-G	7		
+Duct Insulation Tags		X-XX-AL-VERWIJZING-G	7		
+Duct Lining Tags		X-XX-AL-VERWIJZING-G	7		
+Duct Tags		X-XX-AL-VERWIJZING-G	7		
+Electrical Equipment Tags		X-XX-AL-VERWIJZING-G	7		
+Electrical Fixture Tags		X-XX-AL-VERWIJZING-G	7		
+Elevations		X-XX-AL-VERWIJZING-AANZICHT-G	7		
+Fire Alarm Device Tags		X-XX-AL-VERWIJZING-G	7		
+Flex Duct Tags		X-XX-AL-VERWIJZING-G	7		
+Flex Pipe Tags		X-XX-AL-VERWIJZING-G	7		
+Floor Tags		X-XX-AL-VERWIJZING-G	7		
+Foundation Span Direction Symbol		X-XX-AL-VERWIJZING-G	7		
+Furniture System Tags		X-XX-AL-VERWIJZING-G	7		
+Furniture Tags		X-XX-AL-VERWIJZING-G	7		
+Generic Annotations		X-XX-AL-VERWIJZING-G	7		
+Generic Annotations	Centerline	N-CO-BC-HARTLIJN-G	7		
+Generic Annotations	Kader	X-XX-AL-TEKENBLAD-G	7		
+Generic Annotations	Kader_Roosterverdeling	X-XX-AL-TEKENBLAD_KADER_ROOSTERVERDELING-G	7		
+Generic Annotations	Kader_Vouwmerk	X-XX-AL-TEKENBLAD_KADER_VOUWMERK-G	7		
+Generic Model Tags		X-XX-AL-VERWIJZING-G	7		
+Grids		X_XX_AL_STRAMIENLIJN_G	7		
+Guide Grid		X_XX_AL_STRAMIENLIJN_G	7		
+Internal Area Load Tags		X-XX-AL-VERWIJZING-G	7		
+Internal Line Load Tags		X-XX-AL-VERWIJZING-G	7		
+Internal Point Load Tags		X-XX-AL-VERWIJZING-G	7		
+Keynote Tags		X-XX-AL-VERWIJZING-G	7		
+Levels		X-XX-AL-VERWIJZING-G	7		
+Lighting Device Tags		X-XX-AL-VERWIJZING-G	7		
+Lighting Fixture Tags		X-XX-AL-VERWIJZING-G	7		
+Line Load Tags		X-XX-AL-VERWIJZING-G	7		
+Mass Floor Tags		X-XX-AL-VERWIJZING-G	7		
+Mass Tags		X-XX-AL-VERWIJZING-G	7		
+Matchline		X-XX-AL-HARTLIJN-G	7		
+Material Tags		X-XX-AL-VERWIJZING-G	7		
+Mechanical Equipment Tags		X-XX-AL-VERWIJZING-G	7		
+Multi_Category Tags		X-XX-AL-VERWIJZING-G	7		
+Nurse Call Device Tags		X-XX-AL-VERWIJZING-G	7		
+Panel Schedule Graphics		X_XX_AL_TEKENBLAD_VERKLARING-G	7		
+Parking Tags		X-XX-AL-VERWIJZING-G	7		
+Part Tags		X-XX-AL-VERWIJZING-G	7		
+Pipe Accessory Tags		X-XX-AL-VERWIJZING-G	7		
+Pipe Color Fill		X-XX-AL-LEGENDA-G	7		
+Pipe Color Fill Legends		X-XX-AL-LEGENDA-G	7		
+Pipe Fitting Tags		X-XX-AL-VERWIJZING-G	7		
+Pipe Insulation Tags		X-XX-AL-VERWIJZING-G	7		
+Pipe Tags		X-XX-AL-VERWIJZING-G	7		
+Plan Region		N-WE-KG-GRENS-G	150		
+Planting Tags		X-XX-AL-VERWIJZING-G	7		
+Plumbing Fixture Tags		X-XX-AL-VERWIJZING-G	7		
+Point Load Tags		X-XX-AL-VERWIJZING-G	7		
+Property Line Segment Tags		X-XX-AL-VERWIJZING-G	7		
+Property Tags		X-XX-AL-VERWIJZING-G	7		
+Railing Tags		X-XX-AL-VERWIJZING-G	7		
+Reference Lines		X-XX-AL-REFERENTIE-G	7		
+Reference Planes		X-XX-AL-REFERENTIE-G	7		
+Reference Points		X-XX-AL-REFERENTIE-G	7		
+Reference Points	Lines	X-XX-AL-REFERENTIE-G	7		
+Reference Points	Planes	X-XX-AL-REFERENTIE-G	7		
+Reference Points	Points	X-XX-AL-REFERENTIE-G	7		
+Revision Cloud Tags		X-XX-AL-VERWIJZING-G	7		
+Revision Clouds		X-XX-AL-AANKLEDING_WIJZIGING-G	7		
+Roof Tags		X-XX-AL-VERWIJZING-G	7		
+Room Tags		X-XX-AL-VERWIJZING-G	7		
+Schedule Graphics		X_XX_AL_TEKENBLAD_VERKLARING-G	7		
+Scope Boxes		X-XX-AL-VERWIJZING_DOORSNEDE-G	7		
+Section Boxes		X-XX-AL-VERWIJZING_DOORSNEDE-G	7		
+Sections		X-XX-AL-VERWIJZING_DOORSNEDE-G	7		
+Security Device Tags		X-XX-AL-VERWIJZING-G	7		
+Site Tags		X-XX-AL-VERWIJZING-G	7		
+Space Tags		X-XX-AL-VERWIJZING-G	7		
+Span Direction Symbol		X-XX-AL-VERWIJZING-G	7		
+Specialty Equipment Tags		X-XX-AL-VERWIJZING-G	7		
+Spot Coordinates		X-XX-AL-M	7		
+Spot Elevations		X-XX-AL-M	7		
+Spot Slopes		X-XX-AL-M	7		
+Sprinkler Tags		X-XX-AL-VERWIJZING-G	7		
+Stair Landing Tags		X-XX-AL-VERWIJZING-G	7		
+Stair Paths		X-XX-AL-T25	7		
+Stair Paths	<Above> Up Arrows	X-XX-AL-VERWIJZING-G	7		
+Stair Paths	Down Arrows	X-XX-AL-VERWIJZING-G	7		
+Stair Paths	DOWN Text	X-XX-AL-T25	7		
+Stair Paths	Up Arrows	X-XX-AL-VERWIJZING-G	7		
+Stair Paths	UP Text	X-XX-AL-T25	7		
+Stair Run Tags		X-XX-AL-VERWIJZING-G	7		
+Stair Support Tags		X-XX-AL-VERWIJZING-G	7		
+Stair Tags		X-XX-AL-VERWIJZING-G	7		
+Stair Tread/Riser Numbers		X_XX_AL_T18	10		
+Structural Annotations		X-XX-AL-T25	7		
+Structural Area Reinforcement Symbols		N-CO-BC-WAPENING-S	170		
+Structural Area Reinforcement Symbols	Rebar	N-CO-BC-WAPENING-S	170		
+Structural Area Reinforcement Tags		X-XX-AL-VERWIJZING-G	7		
+Structural Beam System Tags		X-XX-AL-VERWIJZING-G	7		
+Structural Column Tags		X-XX-AL-VERWIJZING-G	7		
+Structural Connection Tags		X-XX-AL-VERWIJZING-G	7		
+Structural Fabric Reinforcement Symbols		N-CO-BC-WAPENING-S	170		
+Structural Fabric Reinforcement Tags		X-XX-AL-VERWIJZING-G	7		
+Structural Foundation Tags		X-XX-AL-VERWIJZING-G	7		
+Structural Framing Tags		X-XX-AL-VERWIJZING-G	7		
+Structural Path Reinforcement Symbols		N-CO-BC-WAPENING-S	170		
+Structural Path Reinforcement Symbols	Rebar	N-CO-BC-WAPENING-S	170		
+Structural Path Reinforcement Tags		X-XX-AL-VERWIJZING-G	7		
+Structural Rebar Tags		X-XX-AL-VERWIJZING-G	7		
+Structural Stiffener Tags		X-XX-AL-VERWIJZING-G	7		
+Structural Truss Tags		X-XX-AL-VERWIJZING-G	7		
+Telephone Device Tags		X-XX-AL-VERWIJZING-G	7		
+Text Notes		X-XX-AL-T25	7		
+Title Blocks		X-XX-AL-TEKENBLAD_TITELBLOK-G	7		
+Title Blocks	Kader	X-XX-AL-TEKENBLAD_KADER-G	7		
+Title Blocks	Kader_Afsnijmarkering	X-XX-AL-TEKENBLAD_KADER_AFSNIJMARKERING-G	7		
+Title Blocks	Kader_Centermarkering	X-XX-AL-TEKENBLAD_KADER_CENTERMARKERING-G	7		
+Title Blocks	Kader_Hoekmarkering	X-XX-AL-TEKENBLAD_KADER-G	7		
+Title Blocks	Kader_Roosterverdeling	X-XX-AL-TEKENBLAD_KADER_ROOSTERVERDELING-G	7		
+Title Blocks	Kader_Vouwmerk	X-XX-AL-TEKENBLAD_KADER_VOUWMERK-G	7		
+Title Blocks	Medium Lines	X-XX-AL-TEKENBLAD_KADER-G	7		
+Title Blocks	Thin Lines	X-XX-AL-TEKENBLAD_KADER-G	7		
+Title Blocks	Wide Lines	X-XX-AL-TEKENBLAD_KADER-G	7		
+View Reference		X-XX-AL-REFERENTIE-G	7		
+View Titles		X-XX-AL-TEKENBLAD_VIEWPORT_TITEL-G	7		
+Wall Tags		X-XX-AL-VERWIJZING-G	7		
+Window Tags		X-XX-AL-VERWIJZING-G	7		
+Wire Tags		X-XX-AL-VERWIJZING-G	7		
+Zone Tags		X-XX-AL-VERWIJZING-G	7		
+#Analytical model categories					
+Analytical Beams		X-XX-AL-ANALYTISCH_BEAMS-G	32		
+Analytical Beams	End Segment	X-XX-AL-ANALYTISCH_BEAMS-G	32		
+Analytical Beams	Rigid Links	X-XX-AL-ANALYTISCH_BEAMS-G	32		
+Analytical Beams	Start Segment	X-XX-AL-ANALYTISCH_BEAMS-G	32		
+Analytical Braces		X-XX-AL-ANALYTISCH_BRACES-G	32		
+Analytical Braces	End Segment	X-XX-AL-ANALYTISCH_BRACES-G	32		
+Analytical Braces	Start Segment	X-XX-AL-ANALYTISCH_BRACES-G	32		
+Analytical Columns		X-XX-AL-ANALYTISCH_COLUMNS-G	2		
+Analytical Columns	Base Segment	X-XX-AL-ANALYTISCH_COLUMNS-G	2		
+Analytical Columns	Top Segment	X-XX-AL-ANALYTISCH_COLUMNS-G	2		
+Analytical Floors		X-XX-AL-ANALYTISCH_FLOORS-G	2		
+Analytical Foundation Slabs		X-XX-AL-ANALYTISCH_FOUNDATIONS-G	2		
+Analytical Isolated Foundations		X-XX-AL-ANALYTISCH_FOUNDATIONS-G	2		
+Analytical Links		X_XX_AL_ANALYTISCH_LINKS_G	1		
+Analytical Nodes		X-XX-AL-ANALYTISCH_NODES-G	1		
+Analytical Wall Foundations		X-XX-AL-ANALYTISCH_FOUNDATIONS-G	2		
+Analytical Walls		X-XX-AL-ANALYTISCH_WALLS-G	2		
+Boundary Conditions		X-XX-AL-ANALYTISCH_BOUNDARY-G	2		
+Structural Internal Loads		X_XX_AL_INTERNAL_LOADS_G	2		
+Structural Internal Loads	Internal Area Loads	X-XX-AL-INTERNAL_LOADS_AREA-G	2		
+Structural Internal Loads	Internal Line Loads	X-XX-AL-INTERNAL_LOADS_LINE-G	2		
+Structural Internal Loads	Internal Point Loads	X-XX-AL-INTERNAL_LOADS_POINTS-G	2		
+Structural Load Cases		X_XX_AL_LOAD_CASES_G	2		
+Structural Load Cases	Accidental Loads	X-XX-AL-LOAD_CASES_ACCIDENTAL-G	2		
+Structural Load Cases	Dead Loads	X_XX_AL_LOAD_CASES_DEAD_G	2		
+Structural Load Cases	Live Loads	X_XX_AL_LOAD_CASES_LIVE_G	2		
+Structural Load Cases	Roof Live Loads	X_XX_AL_LOAD_CASES_ROOF_G	2		
+Structural Load Cases	Seismic Loads	X-XX-AL-LOAD_CASES_SEISMIC-G	2		
+Structural Load Cases	Snow Loads	X-XX-AL-LOAD_CASES_SNOW-G	2		
+Structural Load Cases	Temperature Loads	X-XX-AL-LOAD_CASES_TEMPERATURE-G	2		
+Structural Load Cases	Wind Loads	X_XX_AL_LOAD_CASES_WIND_G	2		
+Structural Loads		X_XX_AL_LOADS_G	2		
+Structural Loads	Area Loads	X_XX_AL_LOADS_AREA_G	2		
+Structural Loads	Line Loads	X_XX_AL_LOADS_LINE_G	2		
+Structural Loads	Point Loads	X_XX_AL_LOADS_POINT_G	2		
+#Imported categories					
+Imports in Families		G_IMPT	8		
+Imports in Families	to_xx_hulpgeometrie	  { G_IMPT }	8		
+Point Clouds		Point Clouds			
+#Modifiers					
+Analyze As					
+Analyze As	Foundation	Foundation		Foundation	
+Analyze As	Gravity	Gravity		Gravity	
+Analyze As	Gravity and Lateral	Gravity and Lateral		Gravity and Lateral	
+Analyze As	Hanger	Hanger		Hanger	
+Analyze As	Lateral	Lateral		Lateral	
+Analyze As	Not for analysis	Not for analysis		Not for analysis	
+Analyze As	One_Way	One_Way		One_Way	
+Analyze As	Slab on Grade	Slab on Grade		Slab on Grade	
+Analyze As	Two_Way	Two_Way		Two_Way	
+Custom 1		Custom 1		Custom 1	
+Custom 2		Custom 2		Custom 2	
+Custom 3		Custom 3		Custom 3	
+Fire Rating					
+Function					
+Function	Core_shaft	Core_shaft		Core_shaft	
+Function	Exterior	Exterior		Exterior	
+Function	Foundation	Foundation		Foundation	
+Function	Interior	Interior		Interior	
+Function	Retaining	Retaining		Retaining	
+Function	Soffit	Soffit		Soffit	
+Level					
+Level	N.A.P.	N.A.P.		N.A.P.	
+Material for Model Behavior					
+Material for Model Behavior	Concrete	Concrete		Concrete	
+Material for Model Behavior	Other	Other		Other	
+Material for Model Behavior	Precast Concrete	Precast Concrete		Precast Concrete	
+Material for Model Behavior	Steel	Steel		Steel	
+Material for Model Behavior	Wood	Wood		Wood	
+Phase Created					
+Phase Created	Bestaande situatie	Bestaande situatie		Bestaande situatie	
+Phase Created	Eindsituatie	Eindsituatie		Eindsituatie	
+Phase Created	Fase 1	Fase 1		Fase 1	
+Phase Created	Fase 2	Fase 2		Fase 2	
+Phase Created	Fase 3	Fase 3		Fase 3	
+Phase Demolished					
+Phase Demolished	Bestaande situatie	Bestaande situatie		Bestaande situatie	
+Phase Demolished	Eindsituatie	Eindsituatie		Eindsituatie	
+Phase Demolished	Fase 1	Fase 1		Fase 1	
+Phase Demolished	Fase 2	Fase 2		Fase 2	
+Phase Demolished	Fase 3	Fase 3		Fase 3	
+Phase Demolished	None	None		None	
+Phase Status					
+Phase Status	Demolished	D	3	D	
+Phase Status	Existing	E	3	E	
+Phase Status	New	N	2	N	
+Phase Status	Temporary	T	2	T	
+Structural Usage					
+Structural Usage	Bearing	Bearing		Bearing	
+Structural Usage	Chord	Chord		Chord	
+Structural Usage	Girder	Girder		Girder	
+Structural Usage	Horizontal Bracing	Horizontal Bracing		Horizontal Bracing	
+Structural Usage	Joist	Joist		Joist	
+Structural Usage	Kicker Bracing	Kicker Bracing		Kicker Bracing	
+Structural Usage	Non_bearing	Non_bearing		Non_bearing	
+Structural Usage	Other	Other		Other	
+Structural Usage	Purlin	Purlin		Purlin	
+Structural Usage	Retaining	Retaining		Retaining	
+Structural Usage	Shear	Shear		Shear	
+Structural Usage	Structural combined	Structural combined		Structural combined	
+Structural Usage	Vertical Bracing	Vertical Bracing		Vertical Bracing	
+Structural Usage	Web	Web		Web	
+System Classification					
+System Classification	Domestic Cold Water	Domestic Cold Water		Domestic Cold Water	
+System Classification	Domestic Hot Water	Domestic Hot Water		Domestic Hot Water	
+System Classification	Exhaust Air	Exhaust Air		Exhaust Air	
+System Classification	Fire Protection Dry	Fire Protection Dry		Fire Protection Dry	
+System Classification	Fire Protection Other	Fire Protection Other		Fire Protection Other	
+System Classification	Fire Protection Pre_Action	Fire Protection Pre_Action		Fire Protection Pre_Action	
+System Classification	Fire Protection Wet	Fire Protection Wet		Fire Protection Wet	
+System Classification	Hydronic Return	Hydronic Return		Hydronic Return	
+System Classification	Hydronic Supply	Hydronic Supply		Hydronic Supply	
+System Classification	Other	Other		Other	
+System Classification	Other Air	Other Air		Other Air	
+System Classification	Return Air	Return Air		Return Air	
+System Classification	Sanitary	Sanitary		Sanitary	
+System Classification	Supply Air	Supply Air		Supply Air	
+System Classification	Undefined	Undefined		Undefined	
+System Classification	Vent	Vent		Vent	
+System Name					
+System Type					
+System Type	Domestic Cold Water	Domestic Cold Water		Domestic Cold Water	
+System Type	Domestic Hot Water	Domestic Hot Water		Domestic Hot Water	
+System Type	Exhaust Air	Exhaust Air		Exhaust Air	
+System Type	Fire Protection Dry	Fire Protection Dry		Fire Protection Dry	
+System Type	Fire Protection Other	Fire Protection Other		Fire Protection Other	
+System Type	Fire Protection Pre_Action	Fire Protection Pre_Action		Fire Protection Pre_Action	
+System Type	Fire Protection Wet	Fire Protection Wet		Fire Protection Wet	
+System Type	Hydronic Return	Hydronic Return		Hydronic Return	
+System Type	Hydronic Supply	Hydronic Supply		Hydronic Supply	
+System Type	Other	Other		Other	
+System Type	Return Air	Return Air		Return Air	
+System Type	Sanitary	Sanitary		Sanitary	
+System Type	Supply Air	Supply Air		Supply Air	
+System Type	Vent	Vent		Vent	
+Underlay		_UNDERLAY	1	_UNDERLAY	1
+View Type					
+View Type	3D View	3D View		3D View	
+View Type	Drafting View	Drafting View		Drafting View	
+View Type	Elevation	Elevation		Elevation	
+View Type	Legend	Legend		Legend	
+View Type	Sheet	Sheet		Sheet	
+View Type	Structural Plan	Structural Plan		Structural Plan	
+Workset					
+#Others					
+Area Polylines		N-WE-KG-GRENS-G	150		
+Constraints		X-XX-AL-NTB-G	180		
+Grid Heads		X_XX_AL_STRAMIENLIJN_G	7		
+Level Heads		X_XX_AL_VERWIJZING_G	7		
+Massing					
+Room Polylines		N-WE-KG-GRENS-G	150		
+Viewports		X-XX-AL-TEKENBLAD_VIEWPORT_TITEL-G	7		
+					
+					
+					
+					
+					
+					
+					
